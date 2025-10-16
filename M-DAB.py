@@ -2,6 +2,7 @@ from utils import plot_restored_file
 from visualize import plot_simplex, compare_capacity_4d, plot_scaling_law
 import matplotlib.pyplot as plt
 
+
 def generate_all_figures():
     """ distance measure """
     plot_simplex()
